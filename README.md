@@ -16,7 +16,4 @@ This project demonstrates how to design and apply a 60 Hz notch filter to EEG da
 ## Why It Matters
 60 Hz noise is a pervasive artifact in EEG recordings. This example shows how a targeted filter can clean up raw data while preserving the underlying neural signal.
 
-## Preview
-
-![EEG overlay](https://raw.githubusercontent.com/saras-1/eeg-60hz-notch-filter/plots-branch/EEG_Overlay.png)
 
