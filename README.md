@@ -18,4 +18,4 @@ This project demonstrates how to design and apply a 60 Hz notch filter to EEG da
 
 ## Preview
 
-![EEG overlay](plots/eeg_overlay.png)
+![EEG overlay](plots/EEG_Overlay.png)
